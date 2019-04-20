@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&subset=cyrillic');
+
+$def-font: 'Noto Sans';
+
+//Colors
+
+$white: #ffffff;
+$black: #000000;
+$red: #ff3f43;
+$blue: #5168ff;
+$green: #6dff56;
+$yellow: #ffdf5e;
+$pink: #f485ff;
+$purple: #5e057c;
+$violet: #451f99;
+$orange: #ff7b59;
+$dark-red: #a53536;
+$dark-blue: #384ba5;
+
+
+
+$op-light-blue: rgba(49, 228, 255, 0.07);
+// Ext-Colors
+
+$danger: #ff3b22;
+$default: #ffeffe;
+$warning: #ffd651;
+$success: #36fff3;
+$noise: #676767;
+
+// Gradients
+
+$gr-melon: linear-gradient(300deg, #66ffac, #95ffec, #ff313b);
+$gr-apple: linear-gradient(300deg, #bbffdc, #3fd94c);
+$gr-neon: linear-gradient(300deg, #ff1983, #4fffff);
+

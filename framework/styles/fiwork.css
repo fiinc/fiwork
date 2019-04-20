@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans&subset=cyrillic");
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Sans";
+}
+
+*::selection {
+  background: rgba(49, 228, 255, 0.07);
+}
+
+a {
+  color: #5168ff;
+  text-decoration: none;
+}
+a:hover {
+  color: #384ba5;
+}
+
+/*# sourceMappingURL=fiwork.css.map */
